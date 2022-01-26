@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "raavan",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

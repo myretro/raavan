@@ -1,0 +1,8 @@
+{
+  "name": "raavan",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "1a187663"
+}
